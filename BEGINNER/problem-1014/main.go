@@ -1,3 +1,5 @@
+// beecrowd | 1014 Consumption
+
 package main
 
 import "fmt"
